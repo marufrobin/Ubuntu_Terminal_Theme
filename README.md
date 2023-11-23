@@ -16,9 +16,9 @@ Color collection for My Own terminal theme
 ### Default color
 | Place of color      | Colors (hex code) |
 | ----------- | ----------- |
-| BackGround color|![#242635](https://placehold.co/15x15/242635/242635.png) `#242635`|
-| Text Color   |![#D8DEE9](https://placehold.co/15x15/D8DEE9/D8DEE9.png) `#D8DEE9`|
-| Text Color   |![#D8DEE9](https://placehold.co/15x15/D8DEE9/D8DEE9.png) `#D8DEE9`|
+| Background color|![#242635](https://placehold.co/15x15/242635/242635.png) `#242635`|
+| Text color   |![#D8DEE9](https://placehold.co/15x15/D8DEE9/D8DEE9.png) `#D8DEE9`|
+| Text color   |![#D8DEE9](https://placehold.co/15x15/D8DEE9/D8DEE9.png) `#D8DEE9`|
 
 
 ### Color pallet list
