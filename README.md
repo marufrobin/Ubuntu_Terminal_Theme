@@ -20,7 +20,7 @@ Color collection for My Own terminal theme
 | Text Color   |![#D8DEE9](https://placehold.co/15x15/D8DEE9/D8DEE9.png) `#D8DEE9`|
 | Text Color   |![#D8DEE9](https://placehold.co/15x15/D8DEE9/D8DEE9.png) `#D8DEE9`|
 
------------
+
 ### Color pallet list
 
 | Place of color      | Colors (hex code) |
